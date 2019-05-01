@@ -20,7 +20,7 @@ macOS Mojave
 ### インストール
 homebrewを使用してインストールします。
 ```
-$ brew install
+$ brew install fish
 $ fish -v
 fish, version 3.0.2
 ```
