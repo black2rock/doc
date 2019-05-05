@@ -103,8 +103,6 @@ https://github.com/jonas/tig/issues/199
 ```:.tigrc 
 bind status P !git push origin
 ```
-## まとめ
-
 ## 参考
 [tig公式サイト](https://github.com/jonas/tig)
 
